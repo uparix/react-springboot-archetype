@@ -1,5 +1,11 @@
 # React SpringBoot Maven Archetype
 
+## Software Stack
+
+- SpringBootFramework 2.1.1.RELEASE
+- React 16.7.0
+- JUnit5 
+
 ## Getting Started
 ```
     mvn archetype:generate                                  

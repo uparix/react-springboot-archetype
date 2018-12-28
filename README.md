@@ -1,6 +1,12 @@
 # React SpringBoot Maven Archetype
 
-This Maven Archtetype creates and builds a react project with spring boot completely out of maven.
+This Maven Archtetype creates and builds a react project with a spring boot server backend only using maven build steps.
+
+```
+  mvn clean package spring-boot:run
+  
+  http://localhost:8080
+```
 
 ## Software Stack
 

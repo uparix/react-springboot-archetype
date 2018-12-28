@@ -1,5 +1,7 @@
 # React SpringBoot Maven Archetype
 
+This Maven Archtetype creates and builds a react project with spring boot completely out of maven.
+
 ## Software Stack
 
 - SpringBootFramework 2.1.1.RELEASE

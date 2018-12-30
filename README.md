@@ -16,12 +16,14 @@ This Maven Archtetype creates and builds a react project with a spring boot serv
 
 ## Getting Started
 ```
-    mvn archetype:generate                                  
-      -DarchetypeGroupId=com.uparix                
-      -DarchetypeArtifactId=react-springboot-archetype       
-      -DarchetypeVersion=1.0.0              
-      -DgroupId=com.example.acme                               
-      -DartifactId=myproject
+mvn archetype:generate \
+      -DarchetypeGroupId=com.uparix \
+      -DarchetypeArtifactId=react-springboot-archetype \
+      -DarchetypeVersion=1.0.0 \
+      -DgroupId=com.example.acme \
+      -DartifactId=myproject \
+      -DinteractiveMode=false \
+      -Dversion=0.0.1-SNAPSHOT
 ```
 ### Prerequisites
 

@@ -2,6 +2,8 @@
 
 This Maven Archtetype creates and builds a react project with a spring boot server backend only using maven build steps.
 
+## Usage
+
 ```
   mvn clean package spring-boot:run
   

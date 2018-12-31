@@ -2,13 +2,11 @@
 
 This Maven Archtetype creates and builds a react project with a spring boot server backend only using maven build steps.
 
-## Usage
+## Software Stack
 
-```
-  mvn clean package spring-boot:run
-  
-  http://localhost:8080
-```
+- SpringBootFramework 2.1.1.RELEASE
+- React 16.7.0
+- JUnit5 
 
 ## Local Installation
 
@@ -18,11 +16,9 @@ This Maven Archtetype creates and builds a react project with a spring boot serv
   mvn clean install
 ```
 
-## Software Stack
+### Prerequisites
 
-- SpringBootFramework 2.1.1.RELEASE
-- React 16.7.0
-- JUnit5 
+You need Maven installed on your machine.
 
 ## Getting Started
 ```
@@ -35,9 +31,14 @@ mvn archetype:generate \
       -DinteractiveMode=false \
       -Dversion=0.0.1-SNAPSHOT
 ```
-### Prerequisites
 
-You need Maven installed on your machine.
+## Usage
+
+```
+  mvn clean package spring-boot:run
+  
+  http://localhost:8080
+```
 
 ## Contributing
 

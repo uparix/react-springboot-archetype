@@ -40,6 +40,10 @@ mvn archetype:generate \
   http://localhost:8080
 ```
 
+## Project Structure
+
+![Project Structure](src/main/doc/project_structure.png)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.

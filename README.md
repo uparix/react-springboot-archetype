@@ -8,6 +8,14 @@ This Maven Archtetype creates and builds a react project with a spring boot serv
   http://localhost:8080
 ```
 
+## Local Installation
+
+```
+  git clone https://github.com/uparix/react-springboot-archetype.git
+  
+  mvn clean install
+```
+
 ## Software Stack
 
 - SpringBootFramework 2.1.1.RELEASE

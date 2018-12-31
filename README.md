@@ -42,7 +42,7 @@ mvn archetype:generate \
 
 ## Project Structure
 
-![Project Structure](src/main/doc/project_structure.png)
+![Project Structure](src/main/doc/project-structure.png)
 
 ## Contributing
 

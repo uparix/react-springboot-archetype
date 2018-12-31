@@ -1,4 +1,4 @@
-# React SpringBoot Maven Archetype
+# React with SpringBoot Bundle Maven Archetype
 
 This Maven Archtetype creates and builds a react project with a spring boot server backend only using maven build steps.
 

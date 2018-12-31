@@ -22,5 +22,11 @@
         <fileSet filtered="true" encoding="UTF-8">
             <directory>src/main/app</directory>
         </fileSet>
+        <fileSet filtered="false" packaged="false">
+            <directory/>
+            <includes>
+                <include>.*ignore</include>
+            </includes>
+        </fileSet>
     </fileSets>
 </archetype-descriptor>

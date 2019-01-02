@@ -1,6 +1,6 @@
 # React with SpringBoot Bundle Maven Archetype
 
-This Maven Archtetype creates and builds a react project with a spring boot server backend only using maven build steps.
+This Maven Archetype creates and builds a react project with a spring boot server backend only using maven build steps.
 
 ## Software Stack
 
@@ -44,6 +44,10 @@ mvn archetype:generate \
 
 ![Project Structure](src/main/doc/project-structure.png)
 
+## Release History
+ - 1.0.0
+   - Initial Release
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -52,6 +56,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Authors
 
 * **Andreas Neuenschwander** - *Initial work* - [Uparix](https://github.com/uparix)
+* **Michael Seger** - *Contributions* - [Mike Seger](https://github.com/mike-seger)
 
 ## License
 

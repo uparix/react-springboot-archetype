@@ -26,6 +26,7 @@
             <directory/>
             <includes>
                 <include>.*ignore</include>
+                <include>*.md</include>
             </includes>
         </fileSet>
     </fileSets>

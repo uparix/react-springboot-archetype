@@ -4,7 +4,7 @@
 
     <groupId>com.uparix</groupId>
     <artifactId>react-springboot-archetype</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
@@ -13,6 +13,13 @@
         <url>https://github.com/uparix/react-springboot-archetype</url>
         <tag>v1.0.0</tag>
     </scm>
+
+    <repositories>
+        <repository>
+            <id>uparix-nexus</id>
+            <url>https://www.uparix.com/nexus/repository/maven-releases/</url>
+        </repository>
+    </repositories>
 
     <build>
         <plugins>
@@ -24,5 +31,12 @@
         </plugins>
 
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>uparix-nexus</id>
+            <url>https://www.uparix.com/nexus/repository/maven-releases/</url>
+        </repository>
+    </distributionManagement>
 
 </project>

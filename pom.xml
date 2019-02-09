@@ -11,7 +11,6 @@
         <connection>scm:git:https@github.com:uparix/react-springboot-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:uparix/react-springboot-archetype.git</developerConnection>
         <url>https://github.com/uparix/react-springboot-archetype</url>
-        <tag>v1.0.0</tag>
     </scm>
 
     <repositories>
@@ -28,7 +27,6 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.3</version>
             </plugin>
-
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-deploy-plugin</artifactId>

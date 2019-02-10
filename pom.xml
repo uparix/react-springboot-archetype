@@ -60,11 +60,11 @@
     <distributionManagement>
         <repository>
             <id>uparix-nexus-releases</id>
-            <url>https://www.uparix.com/nexus/repository/maven-releases/</url>
+            <url>${uparix-nexus-releases}</url>
         </repository>
         <snapshotRepository>
             <id>uparix-nexus-snapshots</id>
-            <url>https://www.uparix.com/nexus/repository/maven-snapshots/</url>
+            <url>${uparix-nexus-snapshots}</url>
         </snapshotRepository>
     </distributionManagement>
 

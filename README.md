@@ -52,7 +52,7 @@ mvn archetype:generate \
    - Initial Release
  - 1.0.1
    - Updated to recent versions
- - 1.0.2 (06.4.2019)  
+ - 1.0.2 (06.04.2019)  
    - Updated to recent versions
 
 ## Contributing

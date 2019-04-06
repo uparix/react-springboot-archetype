@@ -4,8 +4,11 @@ This Maven Archetype creates and builds a react project with a spring boot serve
 
 ## Software Stack
 
-- SpringBootFramework 2.1.1.RELEASE
-- React 16.7.0
+- SpringBootFramework 2.1.4.RELEASE
+- React 16.8.0
+- Node 10.15.3
+- Yarn 1.15.2
+- frontend-maven-plugin.version 1.7.5
 - JUnit5 
 
 ## Local Installation
@@ -47,6 +50,10 @@ mvn archetype:generate \
 ## Release History
  - 1.0.0
    - Initial Release
+ - 1.0.1
+   - Updated to recent versions
+ - 1.0.2 (06.4.2019)  
+   - Updated to recent versions
 
 ## Contributing
 

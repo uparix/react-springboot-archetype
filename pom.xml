@@ -4,14 +4,14 @@
 
     <groupId>com.uparix</groupId>
     <artifactId>react-springboot-archetype</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
         <connection>scm:git:https@github.com:uparix/react-springboot-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:uparix/react-springboot-archetype.git</developerConnection>
         <url>https://github.com/uparix/react-springboot-archetype</url>
-      <tag>react-springboot-archetype-1.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <repositories>

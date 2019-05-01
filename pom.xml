@@ -11,7 +11,7 @@
         <connection>scm:git:https@github.com:uparix/react-springboot-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:uparix/react-springboot-archetype.git</developerConnection>
         <url>https://github.com/uparix/react-springboot-archetype</url>
-      <tag>HEAD</tag>
+        <tag>HEAD</tag>
   </scm>
 
     <repositories>

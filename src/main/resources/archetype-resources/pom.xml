@@ -12,14 +12,14 @@
     <properties>
         <frontendSrcDir>${project.basedir}/src/main/app</frontendSrcDir>
         <node.version>v10.15.3</node.version>
-        <yarn.version>v1.15.2</yarn.version>
+        <yarn.version>v1.16.0</yarn.version>
         <frontend-maven-plugin.version>1.7.5</frontend-maven-plugin.version>
     </properties>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.4.RELEASE</version>
+        <version>2.1.6.RELEASE</version>
     </parent>
 
     <dependencies>
